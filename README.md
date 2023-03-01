@@ -1,6 +1,8 @@
 [Home](https://mgcodesandstats.github.io/) |
 [GitHub](https://github.com/mgcodesandstats) |
 [LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
+[Medium](https://mgcodesandstats.medium.com/) |
+[Stack Overflow](https://stats.stackexchange.com/users/137066/michael-grogan) |
 [Terms](https://mgcodesandstats.github.io/terms/) |
 [E-mail](mailto:contact@michael-grogan.com)
 
