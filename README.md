@@ -1,10 +1,3 @@
-[Home](https://mgcodesandstats.github.io/) |
-[GitHub](https://github.com/mgcodesandstats) |
-[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
-[Stack Overflow](https://stats.stackexchange.com/users/137066/michael-grogan) |
-[Terms](https://mgcodesandstats.github.io/terms/) |
-[E-mail](mailto:contact@michael-grogan.com)
-
 # NLP: Detecting Spam Messages with TensorFlow
 
 In this example, a recurrent neural network is designed using TensorFlow to detect spam messages.
